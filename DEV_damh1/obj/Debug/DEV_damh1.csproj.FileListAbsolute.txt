@@ -1,0 +1,109 @@
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DEV_damh1.exe.config
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DEV_damh1.exe
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DEV_damh1.pdb
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Data.v23.1.dll
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Drawing.v23.1.dll
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Utils.v23.1.dll
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.XtraBars.v23.1.dll
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Data.v23.1.xml
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.XtraBars.v23.1.xml
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.csproj.AssemblyReference.cache
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.Form1.resources
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.frmKH.resources
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.frmNV.resources
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.Properties.Resources.resources
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.csproj.GenerateResource.cache
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.exe.licenses
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.csproj.CoreCompileInputs.cache
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.csproj.CopyComplete
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.exe
+D:\tran uy nghia\Winform\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.pdb
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DEV_damh1.exe.config
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DEV_damh1.exe
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DEV_damh1.pdb
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.Form1.resources
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.frmKH.resources
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.frmNV.resources
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.Properties.Resources.resources
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.exe.licenses
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.csproj.CopyComplete
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.exe
+C:\Users\Admin\Downloads\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.pdb
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DEV_damh1.exe.config
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DEV_damh1.exe
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DEV_damh1.pdb
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.Form1.resources
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.frmKH.resources
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.txtSDT.resources
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.Properties.Resources.resources
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.exe.licenses
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.csproj.CopyComplete
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.exe
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.pdb
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.frmHD.resources
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.frmNL.resources
+C:\Users\Dell\Desktop\DEV_damh1\DEV_damh1\DEV_damh1\obj\Debug\DEV_damh1.frmPGM.resources
